@@ -6,6 +6,8 @@
 
 Internet Explorer is still included with Windows 10 and Windows 11. It has only been "disabled" as a general purpose browser. While it would be unwise for anyone to continue to use IE as a general purpose browser, there are those who still need to use IE with old websites and hardware that only work with IE. In general, such sites should work in Edge IE Mode (because it actually uses IE in the background) but if IE Mode will not work, you can use this little launcher to directly run Internet Explorer 11.
 
+Another reason to use an Internet Explorer launcher, instead of Edge IE Mode, is to avoid the 30 day timeout on IE Mode pages (or avoid applying workarounds, such as [IEModeExpiryFix](https://lesferch.github.io/IEModeExpiryFix/)).
+
 LaunchIE.exe is more convenienent than equivalent VBScript or JScript solutions. The main advantage is that it's easier to use with Windows shortcuts.
 
 # How to Download and Run
