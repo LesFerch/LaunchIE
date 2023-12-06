@@ -10,7 +10,7 @@ Another reason to use an Internet Explorer launcher, instead of Edge IE Mode, is
 
 LaunchIE.exe is more convenienent than equivalent VBScript or JScript solutions. The main advantage is that it's easier to use with Windows shortcuts.
 
-# How to Download and Run
+## How to Download and Run
 
 1. Download the zip file using the link above.
 2. Extract **LaunchIE.exe**.
@@ -22,7 +22,7 @@ LaunchIE.exe is more convenienent than equivalent VBScript or JScript solutions.
 
 **Note**: Some antivirus software may falsely detect the download as a virus. This can happen anytime you download a new executable and may require extra steps to whitelist the file.
 
-# Summary
+## Summary
 
 **LaunchIE** launches Internet Explorer via the Internet Explorer COM object.
 
@@ -36,7 +36,7 @@ Launch Internet Explorer to a blank page
 Launch Internet Explorer to example.com
 `LaunchIE example.com`
 
-# Alternatives
+## Alternatives
 
 Please note that an alternative to using LaunchIE.exe is to use a small VBScript or JScript file to launch IE. In both of the example scripts below, you would replace "example.com" with the URL you want to load with IE.
 
