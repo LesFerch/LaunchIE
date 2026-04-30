@@ -1,8 +1,8 @@
 # LaunchIE
 
-[![image](https://github.com/LesFerch/WinSetView/assets/79026235/0188480f-ca53-45d5-b9ff-daafff32869e)Download the zip file (defaults to blank page)](https://github.com/LesFerch/LaunchIE/releases/download/1.0.0/LaunchIE-blank-page.zip)
+[![image](https://github.com/LesFerch/WinSetView/assets/79026235/0188480f-ca53-45d5-b9ff-daafff32869e)Download the zip file (defaults to blank page)](https://github.com/LesFerch/LaunchIE/releases/download/1.1.0/LaunchIE-blank-page.zip)
 
-[![image](https://github.com/LesFerch/WinSetView/assets/79026235/0188480f-ca53-45d5-b9ff-daafff32869e)Download the zip file (defaults to home page)](https://github.com/LesFerch/LaunchIE/releases/download/1.0.0/LaunchIE-home-page.zip)
+[![image](https://github.com/LesFerch/WinSetView/assets/79026235/0188480f-ca53-45d5-b9ff-daafff32869e)Download the zip file (defaults to home page)](https://github.com/LesFerch/LaunchIE/releases/download/1.1.0/LaunchIE-home-page.zip)
 
 ## Launch Internet Explorer on Windows 10 or Windows 11
 
